@@ -4,4 +4,4 @@ I used Python language (along with BeautifulSoup library) to automatically colle
 
 Although my bid wasn't chosen by the user, I did it anyways to practice my BeautifulSoup skills, and I succeeded.
 
-## The results file is [here](Results.xlsx).
+## The scraping rate is **99.3%**, and the results file is [here](Results.xlsx).
