@@ -3,3 +3,5 @@
 I used Python language (along with BeautifulSoup library) to automatically collect exactly the desired data about **3457** companies, leaving only 25 companies to manual data extraction, and the whole process took less than 9 hours.
 
 Although my bid wasn't chosen by the user, I did it anyways to practice my BeautifulSoup skills, and I succeeded.
+
+The results file is [here](Results.xlsx).
